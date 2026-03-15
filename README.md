@@ -39,19 +39,19 @@ The solution was built using **Power BI for visualization and analytics**, with 
 
 ### Overview
 
-![Overview](screenshots/Vehicle_dashboard-Intro.png)
+![Overview](screenshots/intro.png)
 
 ### Benchmark Analysis
 
-![Benchmark](screenshots/Vehicle_dashboard-Benchmark.png)
+![Benchmark](screenshots/benchmark.png)
 
 ### KPI and Trends
 
-![KPI](screenshots/Vehicle_dashboard-KPI_and_Trends.png)
+![KPI](screenshots/kpi_and_trends.png)
 
 ### Risk Analysis
 
-![Risk](screenshots/Vehicle_dashboard-Risk.png)
+![Risk](screenshots/risk.png)
 
 ---
 
