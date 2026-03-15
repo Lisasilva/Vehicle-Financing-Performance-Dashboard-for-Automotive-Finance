@@ -39,7 +39,7 @@ The solution was built using **Power BI for visualization and analytics**, with 
 
 ### Overview
 
-![Overview](screenshots/Vehicle_dashboard-Intro.png).
+![Overview](screenshots/Vehicle_dashboard-Intro.png)
 
 ### Benchmark Analysis
 
