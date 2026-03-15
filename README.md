@@ -61,20 +61,3 @@ The solution was built using **Power BI for visualization and analytics**, with 
 * Borrowers aged **36–45 show the highest eligibility for future loans**. 
 * Certain regions demonstrate **higher debt concentration**, indicating potential risk areas. 
 * Historical defaults strongly correlate with **future delinquency risk**, highlighting the importance of credit history in loan evaluation. 
-
----
-
-## Repository Structure
-
-```
-Vehicle-Financing-Performance-Dashboard
-│
-├── Capstone.pbix
-├── README.md
-├── report.pdf
-├── screenshots
-│   ├── Vehicle dashboard - Intro.png
-│   ├── Vehicle dashboard - Benchmark.png
-│   ├── Vehicle dashboard - KPI and Trends.png
-│   └── Vehicle dashboard - Risk.png
-```
